@@ -10,7 +10,7 @@ You can find these tutorials on Youtube as well
 2. [Compose Tutorial 2 - How to create your first app in Jetpack Compose - With Login Screen Example](https://youtu.be/4CSlVhjqXXk)
 3. [Compose Tutorial 3 - Jetpack Compose Basics of Layouts - Row, Column, Text, Image and Modifiers](https://youtu.be/Y3WwryISxyg)
 4. [Compose Tutorial 4 - LazyLists in Jetpack Compose - LazyColumn & LazyRow](https://youtu.be/4FOkX2ITs9M)
-5. Lazy Grids in Jetpack Compsoe - LazyVerticalGrid and LazyHorizontalGrid
+5. [Compose Tutorial 5 - Lazy Grids in Jetpack Compsoe - LazyVerticalGrid and LazyHorizontalGrid](https://youtu.be/zYtcuP0xIv8)
 
 
 ## NOTE: ##
