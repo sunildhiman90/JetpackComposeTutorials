@@ -13,6 +13,7 @@ You can find these tutorials on Youtube as well
 5. [Compose Tutorial 5 - Lazy Grids in Jetpack Compose - LazyVerticalGrid and LazyHorizontalGrid](https://youtu.be/zYtcuP0xIv8)
 6. [Compose Tutorial 6 - Lazy StaggeredGrids in Jetpack Compose - LazyVerticalStaggeredGrid and LazyHorizontalStaggeredGrid](https://youtu.be/Sy-pXUccDe0)
 7. [Compose Tutorial 7 - Navigation in Jetpack Compose - Part1 - How to Pass Multiple Arguments and optional arguments](https://youtu.be/ha8t6sCihMw)
+8. [Compose Tutorial 8 - Nested Navigation in Jetpack Compose - Part2 - How to Do Nested Navigation Properly Using popUpTo ?](https://youtu.be/SsdSOFs_vu4)
 
 
 ## NOTE: ##
