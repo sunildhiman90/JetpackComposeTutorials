@@ -15,6 +15,6 @@ You can find these tutorials on Youtube as well
 7. [Compose Tutorial 7 - Navigation in Jetpack Compose - Part1 - How to Pass Multiple Arguments and optional arguments](https://youtu.be/ha8t6sCihMw)
 8. [Compose Tutorial 8 - Nested Navigation in Jetpack Compose - Part2 - How to Do Nested Navigation Properly Using popUpTo ?](https://youtu.be/SsdSOFs_vu4)
 9. [Compose Tutorial 9 - Nested Navigation With Bottom Bar in Jetpack Compose - Part3 ](https://youtu.be/Q_3KKaSJn-g)
-
+10. [Compose Tutorial 10 - Side Effects Made Easy in Jetpack Compose ](https://youtu.be/QmRzSoCwvHA)
 
 
