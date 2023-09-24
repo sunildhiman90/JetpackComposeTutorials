@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeTutorial12DifferentScreenSizesSupport</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="home" translatable="false">Home</string>
+</resources>
