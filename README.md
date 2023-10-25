@@ -17,5 +17,9 @@ You can find these tutorials on Youtube as well
 9. [Compose Tutorial 9 - Nested Navigation With Bottom Bar in Jetpack Compose - Part3 ](https://youtu.be/Q_3KKaSJn-g)
 10. [Compose Tutorial 10 - Side Effects Made Easy in Jetpack Compose ](https://youtu.be/QmRzSoCwvHA)
 11. [Compose Tutorial 11 - Composition Local in Jetpack Compose ](https://youtu.be/lcBiPlgxYxw)
+12. [Compose Tutorial 12 - How to Support different screen sizes in Jetpack Compose | Adaptive TwoPane Layout Jetpack Compose ](https://youtu.be/TFOzeztXNEM)
+13. [Compose Tutorial 13 - How To Use Google Maps In Jetpack Compose | Show Marker and InfoWindow on Map in Jetpack Compose ](https://youtu.be/-dSWmgSur8U)
+14. [Compose Tutorial 14 - How to Handle User Input and Text In Jetpack Compose | TextField, KeyboardActions, Brush API ](https://youtu.be/WIq4tmOwph8)
+15. [Compose Tutorial 15 Gestures Part 1 - Gestures pointerInput & Pointer Events | Jetpack Compose | How to Create Custom Gesture Handlers ](https://youtu.be/6WftqMPHjvY)
 
 
